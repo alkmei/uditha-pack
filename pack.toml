@@ -1,0 +1,13 @@
+name = "Uditha Wiz"
+author = "neartd213"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9afe2c0efdf459bab7b688338ea9192c6a1522f0129ab89a63fe69e3a5419665"
+
+[versions]
+forge = "43.2.21"
+minecraft = "1.19.2"
