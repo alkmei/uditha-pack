@@ -1,6 +1,6 @@
 name = "Uditha Wiz"
 author = "neartd213"
-version = "1.0.0"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
