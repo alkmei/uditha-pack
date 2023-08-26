@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/additional-guns.pw.toml"
+hash = "34166c2da1b033625306c1a4e262a0bd2211479beaabdc657bd8812391e5325c"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
@@ -63,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
-hash = "b28c3da3ee3ca475f8c79cbc4e8eb2f5fd44ab488bc14bfdf1fc04dc6f6e67c4"
 metafile = true
 
 [[files]]
@@ -138,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "8e9b328fedeade590af9cbf1f945fa2e8f2d5764fff3e76ce7b45ff3b7ae9e25"
 metafile = true
 
 [[files]]
@@ -216,8 +221,8 @@ hash = "871ea2a1ea123faac4659e52950da092d630d622f8404cc44387908175cec8a0"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "138b762dcd3d55592bd3d0ec558c06f071903542436586eb0066687a4ace1580"
+file = "mods/ftb-backups-2.pw.toml"
+hash = "f6e9ab48216ca5c075e27cc5f86bc1b20ac306626ca984a4fb519b4b41e411f0"
 metafile = true
 
 [[files]]
@@ -381,6 +386,11 @@ hash = "306cbb32a5e21015ea1e6e79f2175bff33213abd18af4403e4b9bc72adf4e28d"
 metafile = true
 
 [[files]]
+file = "mods/polylib.pw.toml"
+hash = "8563048e3a697e85591b18442d604a3e6f6460d8ca4244361cdc0c54a8e3dd16"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "feeee060f81012d4a69bb47e6d50886182cc28370978e1b5edab645213a0ed96"
 metafile = true
@@ -388,16 +398,6 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "c5ad892ccacff7bec1c317ecad14dfb03a4ff230f501e66f18ef472707855894"
-metafile = true
-
-[[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "51c55a998de136df53067e1c0c73ddcf1d1e8d7927939d6280095d6b59f87025"
-metafile = true
-
-[[files]]
-file = "mods/simple-storage-network.pw.toml"
-hash = "f046ff6406364b09df7ecc21f788c2f1fff761f8f97b0417a516f1c2e7df6ee0"
 metafile = true
 
 [[files]]
@@ -453,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "da5124cfc1b3dca35edcd43c4726acc7a30a078da7801423da339c0a68721fc0"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "5a0886abd71742a5d93c5cbd513620d1beb2b8ee802aa486ce27e3c795b60407"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "UdithaPack"
 author = "neartd213"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "453d1fe5a172d65d3cd2cd84ad36f96f8f52e4955a8c01c85667fedc9334b964"
+hash = "28c670ae06662b1429e61374e834b1c78ec3e820bbda90a27f6271dd25c5de45"
 
 [versions]
 forge = "43.2.21"
